@@ -1,7 +1,3 @@
-# UML Link if the picture is not clear
--https://embed.creately.com/6lSL3YgDbL3?type=svg"
-
-
 # Ong Wei Ling 19001359 Contributions
 UML 
 - ChangeScene (Interface)
