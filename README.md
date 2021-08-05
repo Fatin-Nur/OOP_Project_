@@ -43,3 +43,37 @@ Video
 
 Coding
 - In the zip file Project_OOP_Coding_WeiLing
+
+# Fatin Nur Afiqah 20001565 Contributions
+
+UML
+- StudentInformationSystem
+- Operations (Interface)
+- CreateDB
+- MySQLConnect
+- ManageCourseController
+- ManageStudentController
+- Student
+- Course
+- AddCourseController
+- AddStudentController
+
+Narration
+- AddStudentController
+- AddCourseController
+- ManageStudentController
+- ManageCourseController
+- Student
+- Course
+- Operations (Interface)
+- CreateDB
+- MySQLConnect
+
+Scene (Image)
+- AddStudentController
+- AddCourseController
+- ManageStudentController
+- ManageCourseController
+
+Video
+-https://utpmy-my.sharepoint.com/:v:/g/personal/fatin_20001565_utp_edu_my/EQUYqMVcrXlIuveoRdG8jssBW0ANtp62o5UifEr2yN0oGw?e=oB5UXu
