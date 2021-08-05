@@ -15,6 +15,21 @@ UML
 - Score_Controller
 - DisplayScore_Controller
 
+Narration
+- design
+- ChangeScene (Interface)
+- CreateDBScore
+- CreateDBUsername
+- SQLConnectScore
+- SQLConnectUserName
+- About
+- SignUpController
+- LoginController
+- HomePage
+- Score
+- Score_Controller
+- DisplayScore_Controller
+
 Scene (Image)
 - LoginScene
 - RegisterScene
