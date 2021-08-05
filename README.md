@@ -72,10 +72,10 @@ Narration
 - MySQLConnect
 
 Scene (Image)
-- AddStudentController
-- AddCourseController
-- ManageStudentController
-- ManageCourseController
+- AddStudentScreenshot
+- AddCourseScreenshot
+- ManageStudentScreenshot
+- ManageCourseScreenshot
 
 Video
 -https://utpmy-my.sharepoint.com/:v:/g/personal/fatin_20001565_utp_edu_my/EQUYqMVcrXlIuveoRdG8jssBW0ANtp62o5UifEr2yN0oGw?e=oB5UXu
